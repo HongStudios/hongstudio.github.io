@@ -3,5 +3,5 @@ layout: default
 title: Home
 ---
 
-# Welcome to Cat Bank: Idle Cute Tycoon
+# Welcome to Hong Studio!
 [Go to download page](/download/)
