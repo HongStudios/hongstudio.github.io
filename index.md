@@ -1,7 +1,10 @@
 ---
-layout: default
-title: Home
----
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-# Welcome to Hong Studio!
-[Go to download page](/download/)
+layout: home
+title: Home
+nav: true
+footer: false
+permalink: /
+---
