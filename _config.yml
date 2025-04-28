@@ -28,6 +28,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.hongstudio.cc" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: HongStudio
 github_username:  HongStudio
+keywords: "Hong Studio, Game Studio, Indie Games, Cat Bank, Idle Games, Mobile Games"
+author: "Hong Studio"
+og_image: /assets/images/og_image.png
+lang: en
 
 ##
 # Typewritter configuration.
@@ -44,9 +48,8 @@ collections:
 
 
 # Build settings
-# theme: minima
-# theme: awesome-jekyll-theme
-remote_theme: HongStudios/awesome-jekyll-theme
+theme: awesome-jekyll-theme
+# remote_theme: HongStudios/awesome-jekyll-theme
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
