@@ -45,7 +45,7 @@ collections:
 
 # Build settings
 # theme: minima
-theme: awesome-jekyll-theme
+# theme: awesome-jekyll-theme
 remote_theme: HongStudios/awesome-jekyll-theme
 plugins:
   - jekyll-feed
