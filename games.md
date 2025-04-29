@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: games
 title: Games
 nav: true
 description:

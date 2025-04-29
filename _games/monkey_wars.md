@@ -2,11 +2,8 @@
 layout: project
 title: "Tower Defense: Monkey Wars"
 image: '/assets/screenshots/monkey_wars/icon.png'
-category: Theme
+category:
 tags:
-  - tower defense
-  - monkey
-  - mobile game
 ---
 Summon monkey warriors on the battlefield of time and space, destroy enemy castles, and achieve victory!
 

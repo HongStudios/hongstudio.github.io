@@ -2,11 +2,8 @@
 layout: project
 title: "Cat Bank: Idle Cute Tycoon"
 image: '/assets/screenshots/cat_bank/icon.png'
+category:
 tags:
-  - simulator
-  - cat
-  - bank
-  - mobile game
 ---
 A warm world filled with morning sunlight awaits you. "Idle Bankercat -Money Games" transforms adorable cats into bankers, managing funds, investing in projects, and bringing wealth and prosperity. Watching these cute cat bankers efficiently manage your assets is sure to bring you peace and joy.
 
