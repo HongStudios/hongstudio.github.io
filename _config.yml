@@ -48,8 +48,8 @@ collections:
 
 
 # Build settings
-# theme: awesome-jekyll-theme
-remote_theme: HongStudios/awesome-jekyll-theme
+theme: awesome-jekyll-theme
+# remote_theme: HongStudios/awesome-jekyll-theme
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
