@@ -39,3 +39,6 @@ gem 'jekyll-seo-tag'
 gem 'jekyll-archives'
 
 gem 'jekyll-polyglot'
+
+# Uncomment the line below to use the `jekyll-sitemap` gem
+gem "jekyll-sitemap"
