@@ -35,7 +35,7 @@ Single-player and free game enthusiasts!
 Looking for a game with adorable cats? Download "Idle Bankercat -Money Games" and experience a healing journey!
 
 ## You can down it on App Store:
-- <https://apps.apple.com/us/app/cat-bank-idle-cute-tycoon/id6504644778>
+- <https://apps.apple.com/app/apple-store/id6504644778?pt=120890297&ct=official_website&mt=8>
 
 ## Screenshots
 <div class="screenshots">
